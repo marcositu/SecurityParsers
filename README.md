@@ -18,3 +18,4 @@ to a KML file.
 and save them into a xlsx file.
 * `parser_ip_address_juniper_con_excel.pl` - To get the Rancid configuration settings, the IP from the Juniper devices and save them into a xlsx file.
 * `shodan_to_xlsx.pl` - Shodan outputs to a xlsx file.
+* * `ScreenOS_sessiones.pl` - Analize the obtained sessions with 'get session' in ScreeOS 5.0.
