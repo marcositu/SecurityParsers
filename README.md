@@ -1,2 +1,2 @@
 # Multitools
-Aquí podrán encontrar scripts que utilizo durate mi día a día de trabajo.
+Aquí podrán encontrar scripts que utilizo durante mi día a día de trabajo.
